@@ -1,13 +1,19 @@
-# frickord
+# Vue.js Boilerplate
 
 ## Project setup
-```
+```bash
+mkdir projectname
+cd projectname
+git clone https://github.com/SilentJungle399/vueplate.git .
 npm install
 ```
 
+Change Project name in package.json
+
 ### Compiles and hot-reloads for development
+Must have [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701) installed.
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
